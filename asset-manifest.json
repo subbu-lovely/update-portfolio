@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/update-portfolio/static/css/main.236a5aaf.chunk.css",
-    "main.js": "/update-portfolio/static/js/main.3345766f.chunk.js",
-    "main.js.map": "/update-portfolio/static/js/main.3345766f.chunk.js.map",
+    "main.css": "/update-portfolio/static/css/main.90b38d7e.chunk.css",
+    "main.js": "/update-portfolio/static/js/main.74638c93.chunk.js",
+    "main.js.map": "/update-portfolio/static/js/main.74638c93.chunk.js.map",
     "runtime-main.js": "/update-portfolio/static/js/runtime-main.090f8396.js",
     "runtime-main.js.map": "/update-portfolio/static/js/runtime-main.090f8396.js.map",
-    "static/js/2.6cdedeb2.chunk.js": "/update-portfolio/static/js/2.6cdedeb2.chunk.js",
-    "static/js/2.6cdedeb2.chunk.js.map": "/update-portfolio/static/js/2.6cdedeb2.chunk.js.map",
+    "static/js/2.2adee937.chunk.js": "/update-portfolio/static/js/2.2adee937.chunk.js",
+    "static/js/2.2adee937.chunk.js.map": "/update-portfolio/static/js/2.2adee937.chunk.js.map",
     "index.html": "/update-portfolio/index.html",
-    "precache-manifest.3b6b9bba488c02d1d513d3e1b83a80e7.js": "/update-portfolio/precache-manifest.3b6b9bba488c02d1d513d3e1b83a80e7.js",
+    "precache-manifest.2f39bdac170f5ffd159fb5fba54049dd.js": "/update-portfolio/precache-manifest.2f39bdac170f5ffd159fb5fba54049dd.js",
     "service-worker.js": "/update-portfolio/service-worker.js",
-    "static/css/main.236a5aaf.chunk.css.map": "/update-portfolio/static/css/main.236a5aaf.chunk.css.map",
+    "static/css/main.90b38d7e.chunk.css.map": "/update-portfolio/static/css/main.90b38d7e.chunk.css.map",
     "static/media/index.css": "/update-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Ashutosh_Hathidara_Resume_ML.pdf": "/update-portfolio/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf",
     "static/media/address_image.svg": "/update-portfolio/static/media/address_image.16559172.svg",
@@ -38,6 +38,7 @@
     "static/media/intel_logo.jpg": "/update-portfolio/static/media/intel_logo.29152cf7.jpg",
     "static/media/iu_logo.png": "/update-portfolio/static/media/iu_logo.60ed0bd3.png",
     "static/media/jsFramework.svg": "/update-portfolio/static/media/jsFramework.5b4a6449.svg",
+    "static/media/kgrllogo.png": "/update-portfolio/static/media/kgrllogo.59ed13c6.png",
     "static/media/legato_logo.png": "/update-portfolio/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/update-portfolio/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/update-portfolio/static/media/muffito_logo.069938a8.png",
@@ -54,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.090f8396.js",
-    "static/js/2.6cdedeb2.chunk.js",
-    "static/css/main.236a5aaf.chunk.css",
-    "static/js/main.3345766f.chunk.js"
+    "static/js/2.2adee937.chunk.js",
+    "static/css/main.90b38d7e.chunk.css",
+    "static/js/main.74638c93.chunk.js"
   ]
 }
