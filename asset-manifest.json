@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/update-portfolio/static/css/main.90b38d7e.chunk.css",
-    "main.js": "/update-portfolio/static/js/main.74638c93.chunk.js",
-    "main.js.map": "/update-portfolio/static/js/main.74638c93.chunk.js.map",
+    "main.css": "/update-portfolio/static/css/main.8d9cbd0c.chunk.css",
+    "main.js": "/update-portfolio/static/js/main.cb7cdb02.chunk.js",
+    "main.js.map": "/update-portfolio/static/js/main.cb7cdb02.chunk.js.map",
     "runtime-main.js": "/update-portfolio/static/js/runtime-main.090f8396.js",
     "runtime-main.js.map": "/update-portfolio/static/js/runtime-main.090f8396.js.map",
-    "static/js/2.2adee937.chunk.js": "/update-portfolio/static/js/2.2adee937.chunk.js",
-    "static/js/2.2adee937.chunk.js.map": "/update-portfolio/static/js/2.2adee937.chunk.js.map",
+    "static/js/2.c823232e.chunk.js": "/update-portfolio/static/js/2.c823232e.chunk.js",
+    "static/js/2.c823232e.chunk.js.map": "/update-portfolio/static/js/2.c823232e.chunk.js.map",
     "index.html": "/update-portfolio/index.html",
-    "precache-manifest.2f39bdac170f5ffd159fb5fba54049dd.js": "/update-portfolio/precache-manifest.2f39bdac170f5ffd159fb5fba54049dd.js",
+    "precache-manifest.3b14507b37ea587c4aa4817779d62b7b.js": "/update-portfolio/precache-manifest.3b14507b37ea587c4aa4817779d62b7b.js",
     "service-worker.js": "/update-portfolio/service-worker.js",
-    "static/css/main.90b38d7e.chunk.css.map": "/update-portfolio/static/css/main.90b38d7e.chunk.css.map",
+    "static/css/main.8d9cbd0c.chunk.css.map": "/update-portfolio/static/css/main.8d9cbd0c.chunk.css.map",
     "static/media/index.css": "/update-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Ashutosh_Hathidara_Resume_ML.pdf": "/update-portfolio/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf",
     "static/media/address_image.svg": "/update-portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/update-portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/update-portfolio/static/media/animated_logo.dcd6dee2.svg",
@@ -33,6 +32,7 @@
     "static/media/github_logo.png": "/update-portfolio/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/update-portfolio/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/update-portfolio/static/media/googleAssistant.a6addc3f.svg",
+    "static/media/hqdefault.jpg": "/update-portfolio/static/media/hqdefault.2cc33d82.jpg",
     "static/media/ibm_logo.png": "/update-portfolio/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/update-portfolio/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/update-portfolio/static/media/intel_logo.29152cf7.jpg",
@@ -48,6 +48,7 @@
     "static/media/projects_image.svg": "/update-portfolio/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/update-portfolio/static/media/pwa.71408db7.png",
     "static/media/stanford_logo.png": "/update-portfolio/static/media/stanford_logo.2c497738.png",
+    "static/media/subbu cv.pdf": "/update-portfolio/static/media/subbu cv.edb2a134.pdf",
     "static/media/talksCardBack.svg": "/update-portfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/update-portfolio/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/update-portfolio/static/media/tiktok_logo.0993e324.png",
@@ -55,8 +56,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.090f8396.js",
-    "static/js/2.2adee937.chunk.js",
-    "static/css/main.90b38d7e.chunk.css",
-    "static/js/main.74638c93.chunk.js"
+    "static/js/2.c823232e.chunk.js",
+    "static/css/main.8d9cbd0c.chunk.css",
+    "static/js/main.cb7cdb02.chunk.js"
   ]
 }
