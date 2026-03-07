@@ -1,25 +1,49 @@
 import React from "react";
-import "./Experience.css"; // If CSS file exists (optional)
+import "./Experience.css";
 
-function Experience(props) {
+function Experience() {
   return (
-    <div style={{ padding: "50px", textAlign: "center" }}>
-      <h1 style={{ fontSize: "40px" }}>Experience</h1>
+    <div className="experience-section">
+      <h1 className="experience-title">Experience & Projects</h1>
 
-      <div style={{ marginTop: "30px" }}>
-        <h3>MERN Stack & AI/ML Projects</h3>
-        <p>Worked on multiple full stack development projects including:</p>
+      <div className="timeline">
+        <div className="timeline-item">
+          <div className="timeline-content">
+            <h3>MERN Stack Developer</h3>
+            <span>Self Projects</span>
+            <p>
+              Developed full stack applications using React, Node.js, Express
+              and MongoDB.
+            </p>
+            <ul>
+              <li>Function Hall Booking App (MERN)</li>
+              <li>Restaurant Website with Firebase Orders</li>
+              <li>Travel Planning Web Application</li>
+            </ul>
+          </div>
+        </div>
 
-        <ul style={{ listStyleType: "none", padding: 0 }}>
-          <li>✔ Function Hall Booking Application (MERN Stack)</li>
-          <li>✔ Daily Tracker Restaurant Website</li>
-          <li>✔ AI/ML based Data Mining Project</li>
-        </ul>
+        <div className="timeline-item">
+          <div className="timeline-content">
+            <h3>AI / ML Project</h3>
+            <span>MCA Academic Project</span>
+            <p>
+              Mining Competitors from Large Unstructured Datasets using machine
+              learning techniques and data analysis.
+            </p>
+          </div>
+        </div>
 
-        <p style={{ marginTop: "20px" }}>
-          Passionate about building scalable web applications and intelligent
-          systems.
-        </p>
+        <div className="timeline-item">
+          <div className="timeline-content">
+            <h3>Verizon Cloud Platform Simulation</h3>
+            <span>Forage | Aug 2024</span>
+            <p>
+              Built a hypothetical VPN product and tested cloud-native security
+              architecture using Python.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   );
